@@ -1,0 +1,3 @@
+import vipasha
+
+vipasha.welcome()
